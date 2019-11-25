@@ -1,0 +1,674 @@
+lif1d --n 1000 --r 350
+Time for calculations =    656.925247 sec
+Time for I/O          =      0.042250 sec
+Total execution time  =    656.967497 sec
+
+lif1d --n 2000 --r 700
+Time for calculations =   2613.342118 sec
+Time for I/O          =      0.078075 sec
+Total execution time  =   2613.420193 sec
+
+lif1d --n 3000 --r 1000
+Time for calculations =   5865.474805 sec
+Time for I/O          =      0.106247 sec
+Total execution time  =   5865.581052 sec
+
+lif1d --n 4000 --r 1300
+Time for calculations =  10400.698803 sec
+Time for I/O          =      0.135221 sec
+Total execution time  =  10400.834024 sec
+
+lif1d --n 5000 --r 1600
+Time for calculations =  16223.751310 sec
+Time for I/O          =      0.127647 sec
+Total execution time  =  16223.878957 sec
+
+lif1d_1a --n 1000 --r 350
+Time for calculations =    657.334251 sec
+Time for I/O          =      0.042127 sec
+Total execution time  =    657.376378 sec
+
+lif1d_1a --n 2000 --r 700
+Time for calculations =   2621.114077 sec
+Time for I/O          =      0.078363 sec
+Total execution time  =   2621.192440 sec
+
+lif1d_1a --n 3000 --r 1000
+Time for calculations =   5879.418558 sec
+Time for I/O          =      0.105402 sec
+Total execution time  =   5879.523960 sec
+
+lif1d_1a --n 4000 --r 1300
+Time for calculations =  10413.180791 sec
+Time for I/O          =      0.103767 sec
+Total execution time  =  10413.284558 sec
+
+lif1d_1a --n 5000 --r 1600
+Time for calculations =  16256.407890 sec
+Time for I/O          =      0.159393 sec
+Total execution time  =  16256.567283 sec
+
+lif1d_1b --n 1000 --r 350
+Time for calculations =    587.374780 sec
+Time for I/O          =      0.042348 sec
+Total execution time  =    587.417128 sec
+
+lif1d_1b --n 2000 --r 700
+Time for calculations =   2344.471950 sec
+Time for I/O          =      0.063956 sec
+Total execution time  =   2344.535906 sec
+
+lif1d_1b --n 3000 --r 1000
+Time for calculations =   5298.863382 sec
+Time for I/O          =      0.107993 sec
+Total execution time  =   5298.971375 sec
+
+lif1d_1b --n 4000 --r 1300
+Time for calculations =   9398.160996 sec
+Time for I/O          =      0.137437 sec
+Total execution time  =   9398.298433 sec
+
+lif1d_1b --n 5000 --r 1600
+Time for calculations =  14689.618102 sec
+Time for I/O          =      0.160124 sec
+Total execution time  =  14689.778226 sec
+
+lif1d_1c_O0 --n 1000 --r 350
+Time for calculations =    209.492736 sec
+Time for I/O          =      0.043235 sec
+Total execution time  =    209.535971 sec
+
+lif1d_1c_O0 --n 2000 --r 700
+Time for calculations =    834.589658 sec
+Time for I/O          =      0.064085 sec
+Total execution time  =    834.653743 sec
+
+lif1d_1c_O0 --n 3000 --r 1000
+Time for calculations =   1873.767345 sec
+Time for I/O          =      0.112541 sec
+Total execution time  =   1873.879886 sec
+
+lif1d_1c_O0 --n 4000 --r 1300
+Time for calculations =   3328.060288 sec
+Time for I/O          =      0.128492 sec
+Total execution time  =   3328.188780 sec
+
+lif1d_1c_O0 --n 5000 --r 1600
+Time for calculations =   5197.755955 sec
+Time for I/O          =      0.163097 sec
+Total execution time  =   5197.919052 sec
+
+lif1d_1c_O3 --n 1000 --r 350
+Time for calculations =    207.731702 sec
+Time for I/O          =      0.042454 sec
+Total execution time  =    207.774156 sec
+
+lif1d_1c_O3 --n 2000 --r 700
+Time for calculations =    830.365053 sec
+Time for I/O          =      0.077076 sec
+Total execution time  =    830.442129 sec
+
+lif1d_1c_O3 --n 3000 --r 1000
+Time for calculations =   1868.530661 sec
+Time for I/O          =      0.082964 sec
+Total execution time  =   1868.613625 sec
+
+lif1d_1c_O3 --n 4000 --r 1300
+Time for calculations =   3321.175798 sec
+Time for I/O          =      0.134098 sec
+Total execution time  =   3321.309896 sec
+
+lif1d_1c_O3 --n 5000 --r 1600
+Time for calculations =   5188.279849 sec
+Time for I/O          =      0.157700 sec
+Total execution time  =   5188.437549 sec
+
+lif1d_2a_it_O0 --n 1000 --r 350 1 Thread(s)
+Time for calculations =    590.796384 sec
+Time for I/O          =      0.043207 sec
+Total execution time  =    590.839591 sec
+
+lif1d_2a_it_O0 --n 2000 --r 700 1 Thread(s)
+Time for calculations =   2356.975530 sec
+Time for I/O          =      0.081448 sec
+Total execution time  =   2357.056978 sec
+
+lif1d_2a_it_O0 --n 3000 --r 1000 1 Thread(s)
+Time for calculations =   5305.576203 sec
+Time for I/O          =      0.112788 sec
+Total execution time  =   5305.688991 sec
+
+lif1d_2a_it_O0 --n 4000 --r 1300 1 Thread(s)
+Time for calculations =   9431.483974 sec
+Time for I/O          =      0.135000 sec
+Total execution time  =   9431.618974 sec
+
+lif1d_2a_it_O0 --n 5000 --r 1600 1 Thread(s)
+Time for calculations =  14730.431649 sec
+Time for I/O          =      0.147156 sec
+Total execution time  =  14730.578805 sec
+
+lif1d_2a_it_O0 --n 1000 --r 350 2 Thread(s)
+Time for calculations =    591.029714 sec
+Time for I/O          =      0.043450 sec
+Total execution time  =    591.073164 sec
+
+lif1d_2a_it_O0 --n 2000 --r 700 2 Thread(s)
+Time for calculations =   2356.892596 sec
+Time for I/O          =      0.067999 sec
+Total execution time  =   2356.960595 sec
+
+lif1d_2a_it_O0 --n 3000 --r 1000 2 Thread(s)
+Time for calculations =   5313.714051 sec
+Time for I/O          =      0.117362 sec
+Total execution time  =   5313.831413 sec
+
+lif1d_2a_it_O0 --n 4000 --r 1300 2 Thread(s)
+Time for calculations =   9428.910778 sec
+Time for I/O          =      0.127672 sec
+Total execution time  =   9429.038450 sec
+
+lif1d_2a_it_O0 --n 5000 --r 1600 2 Thread(s)
+Time for calculations =  14734.176927 sec
+Time for I/O          =      0.170111 sec
+Total execution time  =  14734.347038 sec
+
+lif1d_2a_it_O0 --n 1000 --r 350 4 Thread(s)
+Time for calculations =    591.699601 sec
+Time for I/O          =      0.043588 sec
+Total execution time  =    591.743189 sec
+
+lif1d_2a_it_O0 --n 2000 --r 700 4 Thread(s)
+Time for calculations =   2359.216811 sec
+Time for I/O          =      0.072398 sec
+Total execution time  =   2359.289209 sec
+
+lif1d_2a_it_O0 --n 3000 --r 1000 4 Thread(s)
+Time for calculations =   5307.133242 sec
+Time for I/O          =      0.095870 sec
+Total execution time  =   5307.229112 sec
+
+lif1d_2a_it_O0 --n 4000 --r 1300 4 Thread(s)
+Time for calculations =   9432.283455 sec
+Time for I/O          =      0.146220 sec
+Total execution time  =   9432.429675 sec
+
+lif1d_2a_it_O0 --n 5000 --r 1600 4 Thread(s)
+Time for calculations =  14730.592128 sec
+Time for I/O          =      0.159160 sec
+Total execution time  =  14730.751288 sec
+
+lif1d_2a_it_O3 --n 1000 --r 350 1 Thread(s)
+Time for calculations =    204.920379 sec
+Time for I/O          =      0.027155 sec
+Total execution time  =    204.947534 sec
+
+lif1d_2a_it_O3 --n 2000 --r 700 1 Thread(s)
+Time for calculations =    822.055209 sec
+Time for I/O          =      0.077832 sec
+Total execution time  =    822.133041 sec
+
+lif1d_2a_it_O3 --n 3000 --r 1000 1 Thread(s)
+Time for calculations =   1849.746179 sec
+Time for I/O          =      0.112914 sec
+Total execution time  =   1849.859093 sec
+
+lif1d_2a_it_O3 --n 4000 --r 1300 1 Thread(s)
+Time for calculations =   3289.657208 sec
+Time for I/O          =      0.144029 sec
+Total execution time  =   3289.801237 sec
+
+lif1d_2a_it_O3 --n 5000 --r 1600 1 Thread(s)
+Time for calculations =   5142.525150 sec
+Time for I/O          =      0.164838 sec
+Total execution time  =   5142.689988 sec
+
+lif1d_2a_it_O3 --n 1000 --r 350 2 Thread(s)
+Time for calculations =    204.958757 sec
+Time for I/O          =      0.035762 sec
+Total execution time  =    204.994519 sec
+
+lif1d_2a_it_O3 --n 2000 --r 700 2 Thread(s)
+Time for calculations =    821.913803 sec
+Time for I/O          =      0.081688 sec
+Total execution time  =    821.995491 sec
+
+lif1d_2a_it_O3 --n 3000 --r 1000 2 Thread(s)
+Time for calculations =   1850.153697 sec
+Time for I/O          =      0.113281 sec
+Total execution time  =   1850.266978 sec
+
+lif1d_2a_it_O3 --n 4000 --r 1300 2 Thread(s)
+Time for calculations =   3290.332707 sec
+Time for I/O          =      0.134633 sec
+Total execution time  =   3290.467340 sec
+
+lif1d_2a_it_O3 --n 5000 --r 1600 2 Thread(s)
+Time for calculations =   5141.655595 sec
+Time for I/O          =      0.148907 sec
+Total execution time  =   5141.804502 sec
+
+lif1d_2a_it_O3 --n 1000 --r 350 4 Thread(s)
+Time for calculations =    205.046654 sec
+Time for I/O          =      0.037950 sec
+Total execution time  =    205.084604 sec
+
+lif1d_2a_it_O3 --n 2000 --r 700 4 Thread(s)
+Time for calculations =    822.041795 sec
+Time for I/O          =      0.078323 sec
+Total execution time  =    822.120118 sec
+
+lif1d_2a_it_O3 --n 3000 --r 1000 4 Thread(s)
+Time for calculations =   1850.039116 sec
+Time for I/O          =      0.112395 sec
+Total execution time  =   1850.151511 sec
+
+lif1d_2a_it_O3 --n 4000 --r 1300 4 Thread(s)
+Time for calculations =   3289.597400 sec
+Time for I/O          =      0.132873 sec
+Total execution time  =   3289.730273 sec
+
+lif1d_2a_it_O3 --n 5000 --r 1600 4 Thread(s)
+Time for calculations =   5141.327537 sec
+Time for I/O          =      0.170540 sec
+Total execution time  =   5141.498077 sec
+
+lif1d_2a_i_O0 --n 1000 --r 350 1 Thread(s)
+Time for calculations =    591.801186 sec
+Time for I/O          =      0.044570 sec
+Total execution time  =    591.845756 sec
+
+lif1d_2a_i_O0 --n 2000 --r 700 1 Thread(s)
+Time for calculations =   2354.605951 sec
+Time for I/O          =      0.079588 sec
+Total execution time  =   2354.685539 sec
+
+lif1d_2a_i_O0 --n 3000 --r 1000 1 Thread(s)
+Time for calculations =   5311.209686 sec
+Time for I/O          =      0.114693 sec
+Total execution time  =   5311.324379 sec
+
+lif1d_2a_i_O0 --n 4000 --r 1300 1 Thread(s)
+Time for calculations =   9431.512696 sec
+Time for I/O          =      0.146165 sec
+Total execution time  =   9431.658861 sec
+
+lif1d_2a_i_O0 --n 5000 --r 1600 1 Thread(s)
+Time for calculations =  14732.864042 sec
+Time for I/O          =      0.128840 sec
+Total execution time  =  14732.992882 sec
+
+lif1d_2a_i_O0 --n 1000 --r 350 2 Thread(s)
+Time for calculations =    298.198978 sec
+Time for I/O          =      0.026863 sec
+Total execution time  =    298.225841 sec
+
+lif1d_2a_i_O0 --n 2000 --r 700 2 Thread(s)
+Time for calculations =   1182.652531 sec
+Time for I/O          =      0.053517 sec
+Total execution time  =   1182.706048 sec
+
+lif1d_2a_i_O0 --n 3000 --r 1000 2 Thread(s)
+Time for calculations =   2666.021051 sec
+Time for I/O          =      0.082340 sec
+Total execution time  =   2666.103391 sec
+
+lif1d_2a_i_O0 --n 4000 --r 1300 2 Thread(s)
+Time for calculations =   4735.146939 sec
+Time for I/O          =      0.105911 sec
+Total execution time  =   4735.252850 sec
+
+lif1d_2a_i_O0 --n 5000 --r 1600 2 Thread(s)
+Time for calculations =   7395.059577 sec
+Time for I/O          =      0.131781 sec
+Total execution time  =   7395.191358 sec
+
+lif1d_2a_i_O0 --n 1000 --r 350 4 Thread(s)
+Time for calculations =    243.770853 sec
+Time for I/O          =      0.037932 sec
+Total execution time  =    243.808785 sec
+
+lif1d_2a_i_O0 --n 2000 --r 700 4 Thread(s)
+Time for calculations =    968.295486 sec
+Time for I/O          =      0.065269 sec
+Total execution time  =    968.360755 sec
+
+lif1d_2a_i_O0 --n 3000 --r 1000 4 Thread(s)
+Time for calculations =   2180.042305 sec
+Time for I/O          =      0.088687 sec
+Total execution time  =   2180.130992 sec
+
+lif1d_2a_i_O0 --n 4000 --r 1300 4 Thread(s)
+Time for calculations =   3872.901899 sec
+Time for I/O          =      0.112033 sec
+Total execution time  =   3873.013932 sec
+
+lif1d_2a_i_O0 --n 5000 --r 1600 4 Thread(s)
+Time for calculations =   6061.407000 sec
+Time for I/O          =      0.145851 sec
+Total execution time  =   6061.552851 sec
+
+lif1d_2a_i_O3 --n 1000 --r 350 1 Thread(s)
+Time for calculations =    206.892846 sec
+Time for I/O          =      0.043359 sec
+Total execution time  =    206.936205 sec
+
+lif1d_2a_i_O3 --n 2000 --r 700 1 Thread(s)
+Time for calculations =    823.412864 sec
+Time for I/O          =      0.078464 sec
+Total execution time  =    823.491328 sec
+
+lif1d_2a_i_O3 --n 3000 --r 1000 1 Thread(s)
+Time for calculations =   1850.894964 sec
+Time for I/O          =      0.076836 sec
+Total execution time  =   1850.971800 sec
+
+lif1d_2a_i_O3 --n 4000 --r 1300 1 Thread(s)
+Time for calculations =   3290.226807 sec
+Time for I/O          =      0.146943 sec
+Total execution time  =   3290.373750 sec
+
+lif1d_2a_i_O3 --n 5000 --r 1600 1 Thread(s)
+Time for calculations =   5140.896655 sec
+Time for I/O          =      0.128886 sec
+Total execution time  =   5141.025541 sec
+
+lif1d_2a_i_O3 --n 1000 --r 350 2 Thread(s)
+Time for calculations =    108.182357 sec
+Time for I/O          =      0.027311 sec
+Total execution time  =    108.209668 sec
+
+lif1d_2a_i_O3 --n 2000 --r 700 2 Thread(s)
+Time for calculations =    428.141308 sec
+Time for I/O          =      0.054813 sec
+Total execution time  =    428.196121 sec
+
+lif1d_2a_i_O3 --n 3000 --r 1000 2 Thread(s)
+Time for calculations =    960.209496 sec
+Time for I/O          =      0.077955 sec
+Total execution time  =    960.287451 sec
+
+lif1d_2a_i_O3 --n 4000 --r 1300 2 Thread(s)
+Time for calculations =   1708.208161 sec
+Time for I/O          =      0.104044 sec
+Total execution time  =   1708.312205 sec
+
+lif1d_2a_i_O3 --n 5000 --r 1600 2 Thread(s)
+Time for calculations =   2667.623697 sec
+Time for I/O          =      0.129549 sec
+Total execution time  =   2667.753246 sec
+
+lif1d_2a_i_O3 --n 1000 --r 350 4 Thread(s)
+Time for calculations =     88.327764 sec
+Time for I/O          =      0.037648 sec
+Total execution time  =     88.365412 sec
+
+lif1d_2a_i_O3 --n 2000 --r 700 4 Thread(s)
+Time for calculations =    347.361093 sec
+Time for I/O          =      0.063573 sec
+Total execution time  =    347.424666 sec
+
+lif1d_2a_i_O3 --n 3000 --r 1000 4 Thread(s)
+Time for calculations =    780.452703 sec
+Time for I/O          =      0.088996 sec
+Total execution time  =    780.541699 sec
+
+lif1d_2a_i_O3 --n 4000 --r 1300 4 Thread(s)
+Time for calculations =   1388.907129 sec
+Time for I/O          =      0.113674 sec
+Total execution time  =   1389.020803 sec
+
+lif1d_2a_i_O3 --n 5000 --r 1600 4 Thread(s)
+Time for calculations =   2174.475961 sec
+Time for I/O          =      0.134036 sec
+Total execution time  =   2174.609997 sec
+
+lif1d_2a_j_O0 --n 1000 --r 350 1 Thread(s)
+Time for calculations =    682.353527 sec
+Time for I/O          =      0.034660 sec
+Total execution time  =    682.388187 sec
+
+lif1d_2a_j_O0 --n 2000 --r 700 1 Thread(s)
+Time for calculations =   2568.359189 sec
+Time for I/O          =      0.081422 sec
+Total execution time  =   2568.440611 sec
+
+lif1d_2a_j_O0 --n 3000 --r 1000 1 Thread(s)
+Time for calculations =   5631.225755 sec
+Time for I/O          =      0.114575 sec
+Total execution time  =   5631.340330 sec
+
+lif1d_2a_j_O0 --n 4000 --r 1300 1 Thread(s)
+Time for calculations =   9864.301658 sec
+Time for I/O          =      0.144855 sec
+Total execution time  =   9864.446513 sec
+
+lif1d_2a_j_O0 --n 5000 --r 1600 1 Thread(s)
+Time for calculations =  15367.205261 sec
+Time for I/O          =      0.172593 sec
+Total execution time  =  15367.377854 sec
+
+lif1d_2a_j_O0 --n 1000 --r 350 2 Thread(s)
+Time for calculations =    472.875893 sec
+Time for I/O          =      0.026869 sec
+Total execution time  =    472.902762 sec
+
+lif1d_2a_j_O0 --n 2000 --r 700 2 Thread(s)
+Time for calculations =   1538.071840 sec
+Time for I/O          =      0.054552 sec
+Total execution time  =   1538.126392 sec
+
+lif1d_2a_j_O0 --n 3000 --r 1000 2 Thread(s)
+Time for calculations =   3202.805136 sec
+Time for I/O          =      0.084651 sec
+Total execution time  =   3202.889787 sec
+
+lif1d_2a_j_O0 --n 4000 --r 1300 2 Thread(s)
+Time for calculations =   5469.701668 sec
+Time for I/O          =      0.130577 sec
+Total execution time  =   5469.832245 sec
+
+lif1d_2a_j_O0 --n 5000 --r 1600 2 Thread(s)
+Time for calculations =   8334.892684 sec
+Time for I/O          =      0.158220 sec
+Total execution time  =   8335.050904 sec
+
+lif1d_2a_j_O0 --n 1000 --r 350 4 Thread(s)
+Time for calculations =    445.577172 sec
+Time for I/O          =      0.038083 sec
+Total execution time  =    445.615255 sec
+
+lif1d_2a_j_O0 --n 2000 --r 700 4 Thread(s)
+Time for calculations =   1283.376283 sec
+Time for I/O          =      0.063475 sec
+Total execution time  =   1283.439758 sec
+
+lif1d_2a_j_O0 --n 3000 --r 1000 4 Thread(s)
+Time for calculations =   2575.474229 sec
+Time for I/O          =      0.087577 sec
+Total execution time  =   2575.561806 sec
+
+lif1d_2a_j_O0 --n 4000 --r 1300 4 Thread(s)
+Time for calculations =   4339.672358 sec
+Time for I/O          =      0.112674 sec
+Total execution time  =   4339.785032 sec
+
+lif1d_2a_j_O0 --n 5000 --r 1600 4 Thread(s)
+Time for calculations =   6531.386999 sec
+Time for I/O          =      0.133117 sec
+Total execution time  =   6531.520116 sec
+
+lif1d_2a_j_O3 --n 1000 --r 350 1 Thread(s)
+Time for calculations =    298.293909 sec
+Time for I/O          =      0.027926 sec
+Total execution time  =    298.321835 sec
+
+lif1d_2a_j_O3 --n 2000 --r 700 1 Thread(s)
+Time for calculations =   1032.406041 sec
+Time for I/O          =      0.080580 sec
+Total execution time  =   1032.486621 sec
+
+lif1d_2a_j_O3 --n 3000 --r 1000 1 Thread(s)
+Time for calculations =   2175.836577 sec
+Time for I/O          =      0.113711 sec
+Total execution time  =   2175.950288 sec
+
+lif1d_2a_j_O3 --n 4000 --r 1300 1 Thread(s)
+Time for calculations =   3741.820049 sec
+Time for I/O          =      0.149425 sec
+Total execution time  =   3741.969474 sec
+
+lif1d_2a_j_O3 --n 5000 --r 1600 1 Thread(s)
+Time for calculations =   5720.457899 sec
+Time for I/O          =      0.161886 sec
+Total execution time  =   5720.619785 sec
+
+lif1d_2a_j_O3 --n 1000 --r 350 2 Thread(s)
+Time for calculations =    286.215156 sec
+Time for I/O          =      0.027400 sec
+Total execution time  =    286.242556 sec
+
+lif1d_2a_j_O3 --n 2000 --r 700 2 Thread(s)
+Time for calculations =    774.211781 sec
+Time for I/O          =      0.055677 sec
+Total execution time  =    774.267458 sec
+
+lif1d_2a_j_O3 --n 3000 --r 1000 2 Thread(s)
+Time for calculations =   1496.732665 sec
+Time for I/O          =      0.077786 sec
+Total execution time  =   1496.810451 sec
+
+lif1d_2a_j_O3 --n 4000 --r 1300 2 Thread(s)
+Time for calculations =   2441.484095 sec
+Time for I/O          =      0.103263 sec
+Total execution time  =   2441.587358 sec
+
+lif1d_2a_j_O3 --n 5000 --r 1600 2 Thread(s)
+Time for calculations =   3602.732337 sec
+Time for I/O          =      0.133094 sec
+Total execution time  =   3602.865431 sec
+
+lif1d_2a_j_O3 --n 1000 --r 350 4 Thread(s)
+Time for calculations =    294.934219 sec
+Time for I/O          =      0.037917 sec
+Total execution time  =    294.972136 sec
+
+lif1d_2a_j_O3 --n 2000 --r 700 4 Thread(s)
+Time for calculations =    717.974358 sec
+Time for I/O          =      0.063153 sec
+Total execution time  =    718.037511 sec
+
+lif1d_2a_j_O3 --n 3000 --r 1000 4 Thread(s)
+Time for calculations =   1337.707421 sec
+Time for I/O          =      0.088241 sec
+Total execution time  =   1337.795662 sec
+
+lif1d_2a_j_O3 --n 4000 --r 1300 4 Thread(s)
+Time for calculations =   2155.714502 sec
+Time for I/O          =      0.113845 sec
+Total execution time  =   2155.828347 sec
+
+lif1d_2a_j_O3 --n 5000 --r 1600 4 Thread(s)
+Time for calculations =   3104.891877 sec
+Time for I/O          =      0.133519 sec
+Total execution time  =   3105.025396 sec
+
+lif1d_2b_O0 --n 1000 --r 350
+Time for calculations =     88.629457 sec
+Time for I/O          =      0.037706 sec
+Total execution time  =     88.667163 sec
+
+lif1d_2b_O0 --n 2000 --r 700
+Time for calculations =    349.611594 sec
+Time for I/O          =      0.062474 sec
+Total execution time  =    349.674068 sec
+
+lif1d_2b_O0 --n 3000 --r 1000
+Time for calculations =    782.837908 sec
+Time for I/O          =      0.086035 sec
+Total execution time  =    782.923943 sec
+
+lif1d_2b_O0 --n 4000 --r 1300
+Time for calculations =   1393.843496 sec
+Time for I/O          =      0.113219 sec
+Total execution time  =   1393.956715 sec
+
+lif1d_2b_O0 --n 5000 --r 1600
+Time for calculations =   2179.646815 sec
+Time for I/O          =      0.130501 sec
+Total execution time  =   2179.777316 sec
+
+lif1d_2b_O3 --n 1000 --r 350
+Time for calculations =     88.549498 sec
+Time for I/O          =      0.036722 sec
+Total execution time  =     88.586220 sec
+
+lif1d_2b_O3 --n 2000 --r 700
+Time for calculations =    348.804475 sec
+Time for I/O          =      0.062545 sec
+Total execution time  =    348.867020 sec
+
+lif1d_2b_O3 --n 3000 --r 1000
+Time for calculations =    782.166308 sec
+Time for I/O          =      0.084849 sec
+Total execution time  =    782.251157 sec
+
+lif1d_2b_O3 --n 4000 --r 1300
+Time for calculations =   1390.767601 sec
+Time for I/O          =      0.107073 sec
+Total execution time  =   1390.874674 sec
+
+lif1d_2b_O3 --n 5000 --r 1600
+Time for calculations =   2177.946638 sec
+Time for I/O          =      0.130503 sec
+Total execution time  =   2178.077141 sec
+
+lif1d_2b_all --n 1000 --r 350
+Time for calculations =     95.398643 sec
+Time for I/O          =    382.084680 sec
+Total execution time  =    477.483323 sec
+
+lif1d_2b_all --n 2000 --r 700
+Time for calculations =    361.823968 sec
+Time for I/O          =    656.946105 sec
+Total execution time  =   1018.770073 sec
+
+lif1d_2b_all --n 3000 --r 1000
+Time for calculations =    802.367173 sec
+Time for I/O          =    923.636521 sec
+Total execution time  =   1726.003694 sec
+
+lif1d_2b_all --n 4000 --r 1300
+Time for calculations =   1417.065619 sec
+Time for I/O          =   1194.183708 sec
+Total execution time  =   2611.249327 sec
+
+lif1d_2b_all --n 5000 --r 1600
+Time for calculations =   2210.524448 sec
+Time for I/O          =   1448.254361 sec
+Total execution time  =   3658.778809 sec
+
+lif1d_3 --n 1000 --r 350
+Time for calculations =     90.911651 sec
+Time for I/O          =     25.483310 sec
+Total execution time  =    116.394961 sec
+
+lif1d_3 --n 2000 --r 700
+Time for calculations =    353.800422 sec
+Time for I/O          =     48.964470 sec
+Total execution time  =    402.764892 sec
+
+lif1d_3 --n 3000 --r 1000
+Time for calculations =    788.941390 sec
+Time for I/O          =     74.776134 sec
+Total execution time  =    863.717524 sec
+
+lif1d_3 --n 4000 --r 1300
+Time for calculations =   1400.572245 sec
+Time for I/O          =     99.906166 sec
+Total execution time  =   1500.478411 sec
+
+lif1d_3 --n 5000 --r 1600
+Time for calculations =   2189.588569 sec
+Time for I/O          =    126.081989 sec
+Total execution time  =   2315.670558 sec
