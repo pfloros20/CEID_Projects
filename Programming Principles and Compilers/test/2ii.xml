@@ -1,0 +1,28 @@
+<ss:Workbook>	
+	<ss:Styles>
+		<ss:Style ss:ID="s123"></ss:Style>
+		<ss:Style ss:ID="x123"></ss:Style>
+	</ss:Styles>
+	<ss:Worksheet ss:Protected="true" ss:Name="sheet1">
+		<ss:Table ss:ExpandedRowCount="1" ss:ExpandedColumnCount="4" >
+			<ss:Column ss:StyleID="s123" ss:Hidden="false"/>
+			<ss:Column ss:StyleID="z123"/>
+			<ss:Column ss:StyleID="x123" ss:Hidden="true"/>
+			<ss:Column ss:StyleID="x123"/>
+			<ss:Row>
+				<!-- This is a comment -->
+				<ss:Cell>
+					<ss:Data ss:Type="DateTime">12/11/2004 13:26</ss:Data>
+				</ss:Cell>				<ss:Cell>
+					<ss:Data ss:Type="String">string .(data</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="Number">1234</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="Boolean">false</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+		</ss:Table>
+	</ss:Worksheet>
+</ss:Workbook>

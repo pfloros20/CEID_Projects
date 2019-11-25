@@ -1,0 +1,55 @@
+<grammar>::=<Workbook> <stls> <wrks> <WorkbookEnd>
+<stls>::= |<stls> <Styles> <stl> <StylesEnd>
+<stl>::= |<stl> <Style>
+<wrks>::=<Worksheet> <tbl> <WorksheetEnd>|<Worksheet> <wrks> <WorksheetEnd>
+<tbl>::= |<Table> <col> <row> <TableEnd>
+<col>::= |<col> <Column>
+<row>::= |<row> <Row>
+<cell>::= |<Cell> <data> <CellEnd> <cell>
+<data>::= |<Data> <NUMBER> <DataEnd>
+			|<Data> <STRING> <DataEnd>
+			|<Data> <BOOLEAN> <DataEnd>
+			|<Data> <DATETIME> <DataEnd>
+			|<Data> <DataEnd>
+
+<Workbook>::="<ss:Workbook>"
+<WorkbookEnd>::="</ss:Workbook>"
+<Styles>::="<ss:Styles>"
+<StylesEnd>::="</ss:Styles>"
+<Worksheet>::="<ss:Worksheet" <Protected> <Name> <Protected> ">"
+<WorksheetEnd>::="</ss:Worksheet>""
+<Style>::="<ss:Style" <ID> ">" "</ss:Style>"
+<Table>::="<ss:Table" <ExpandedColumnCount> <ExpandedRowCount> <StyleID> ">"
+<TableEnd>::="</ss:Table>"
+<Column>::="<ss:Column" <Hidden> <Width> <StyleID> "/>"
+<Row>::="<ss:Row" <Hidden> <Height> <StyleID> ">"
+<RowEnd>::="</ss:Row>"
+<Cell>::="<ss:Cell" <MergeAcross> <MergeDown> <StyleID> ">"
+<CellEnd>::="</ss:Cell>""
+<Data>::="<ss:Data" <Type> ">"
+<DataEnd>::"</ss:Data>"
+
+<Name>::="ss:Name=" " <alpha> "
+<Protected>::= |"ss:Protected=" " <BOOLEAN> "
+<ID>::="ss:ID=" " <alpha> "
+<ExpandedColumnCount>::= |"ss:ExpandedColumnCount=" " <NUMBER> "
+<ExpandedRowCount>::= |"ss:ExpandedRowCount=" " <NUMBER> "
+<StyleID>::= |"ss:StyleID=" " <alpha> "
+<Hidden>::= |"ss:Hidden=" " <BOOLEAN> "
+<Width>::= |"ss:Width=" " <NUMBER> "
+<Height>::= |"ss:Height=" " <NUMBER> "
+<MergeAcross>::= |"ss:MergeAcross=" " <NUMBER> "
+<MergeDown>::= |"ss:MergeDown=" " <NUMBER> "
+<Type>::="ss:Type=" " <alpha> "
+
+<BOOLEAN>::=true|false
+<digit>::=0|1|2|3|4|5|6|7|8|9
+<NUMBER>::=<digit> <NUMBER>| <digit>
+<letter>::=a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z
+			|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z
+
+<date>::=<digit> <digit> / <digit> <digit> / <digit> <digit> <digit> <digit>
+<time>::=<digit> <digit> : <digit> <digit>
+<DateTime>::=<date> <time>
+<alpha>::=<alpha>|<letter>|<digit>
+<String>::=<String>|<alpha>|<digit>|.|\|!|$|\n|(|)
